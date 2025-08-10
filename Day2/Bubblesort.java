@@ -27,6 +27,6 @@ public class Bubblesort {
         }
         Bubblesort b = new Bubblesort();
         b.Bubblesort(nums, size);
-        System.out.println("Sorted list: " + nums);
+        System.out.println("Sorted Arraylist: " + nums);
     }
 }
